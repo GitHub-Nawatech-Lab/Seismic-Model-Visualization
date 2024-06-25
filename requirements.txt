@@ -1,0 +1,12 @@
+azure-ai-ml
+azure-ai-ml[mount]
+seismic-zfp
+hvplot
+panel
+xarray
+holoviews
+torch
+cv2
+numpy
+matplotlib
+thop
